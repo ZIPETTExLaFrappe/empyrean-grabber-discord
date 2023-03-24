@@ -51,12 +51,6 @@ Windows 10/11
 Python
 Git
 
-Setup
-Download source code zip
-Extract zip
-Run install_python.bat if you don't have python installed
-Run the builder by double clicking the build.bat file
-Follow instructions in builder and your exe will be found in the dist folder under the name main.exe
 
 ![image](https://user-images.githubusercontent.com/128839180/227600765-dd9dd1d4-5c9a-424c-99aa-924763cba03e.png)
 
